@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "GithubPages": {
+      "source": "julianobarbosa/claude-code-skills",
+      "sourceType": "github",
+      "computedHash": "c5bb04f3a29e47e6607ccd04c003c74fd48c1b62d39e6caa97bd2e6428fd88d0"
+    },
+    "blog-writing-guide": {
+      "source": "getsentry/skills",
+      "sourceType": "github",
+      "computedHash": "ea61807f61c667d5b076b92eda3a135721f6b64a555e03990eef618096acca49"
+    },
+    "technical-blog-writing": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "dbe6cbf7712aa01b89e6fa7b6cace36626502b5755ce0ab0d22649a61301346b"
+    }
+  }
+}
